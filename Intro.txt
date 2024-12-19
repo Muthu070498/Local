@@ -1,2 +1,6 @@
 MuthuKumar
+<<<<<<< HEAD
 Hello welcome here f
+=======
+welcome
+>>>>>>> master
